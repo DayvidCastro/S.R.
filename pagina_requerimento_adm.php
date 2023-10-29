@@ -40,7 +40,7 @@
 if (isset($_POST['sair'])) {
 
     header('Location: pagina_login.php');
-    
+
 }
 
     extract($_POST);
@@ -69,6 +69,7 @@ if (isset($status_requerimento)) {
 }
 
 ?>
+
 
 </body>
 

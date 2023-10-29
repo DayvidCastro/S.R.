@@ -54,6 +54,7 @@
             echo "Erro ao cadastrar: " . mysqli_error($conexao);
 
         }
+        
     }
 
     ?>
