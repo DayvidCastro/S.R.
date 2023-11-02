@@ -14,7 +14,7 @@
         <h1 class="titulo">Cadastro</h1>
         <form class="input" action="" method="post">
             <input class="input" type="text" name="nome" placeholder="Nome">
-            <input class="input" type="text" name="nome" placeholder="matricula">
+            <input class="input" type="text" name="matricula" placeholder="matricula">
             <input class="input" type="text" name="email" placeholder="Email">
             <input class="input" type="password" name="senha" placeholder="Senha">
             <input class="input" type="text" name="telefone" placeholder="Telefone">
